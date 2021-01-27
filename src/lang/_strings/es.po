@@ -872,10 +872,6 @@ msgid "director"
 msgstr "director"
 
 msgctxt ""
-msgid "mood"
-msgstr "talante"
-
-msgctxt ""
 msgid "style"
 msgstr "estilo"
 
